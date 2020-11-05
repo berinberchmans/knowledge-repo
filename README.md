@@ -1,2 +1,2 @@
-# my Page fgfdfgdfgghx
+# Initial page
 
