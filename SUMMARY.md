@@ -4,15 +4,21 @@
 
 ## Web Development <a id="webdev"></a>
 
-* [angular 9](webdev/untitled.md)
+---
 
-## UI Design
-
-* [Untitled](ui-design/untitled.md)
-
-## Miscellaneous
+* [Angular](angular/README.md)
+  * [Untitled](angular/untitled-1.md)
+  * [Untitled](angular/untitled.md)
+* [CSS](css.md)
+* [HTML](html.md)
+* [JS](js.md)
+* [PHP](php.md)
 
 ## App Development
 
-* [Untitled](app-development/untitled.md)
+* [React Native](app-development/untitled.md)
+
+## UI Design
+
+## Miscellaneous
 
