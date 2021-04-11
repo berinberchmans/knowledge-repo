@@ -7,7 +7,7 @@
 ---
 
 * [Angular](angular/README.md)
-  * [Setting up an angular project](angular/untitled-1.md)
+  * [Setting up an angular project](angular/setting-up-angular.md)
   * [Untitled](angular/untitled.md)
 * [CSS](css.md)
 * [HTML](html.md)
