@@ -1,15 +1,10 @@
 # Table of contents
 
-* [Introduction to wiki](README.md)
-* [Unccctitled](unccctitled.md)
-
-## Design
+* [Hey there!](README.md)
 
 ## Angular
 
 * [angular 9](angular/untitled.md)
 
 ## Miscellaneous
-
-* [fdgaevrg](miscellaneous/untitled.md)
 
