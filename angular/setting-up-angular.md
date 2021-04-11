@@ -2,7 +2,7 @@
 description: The basics in running angular.
 ---
 
-# Setting up an angular project
+# Setting up an Angular project
 
 ### Installing angular CLI
 
