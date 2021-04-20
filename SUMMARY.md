@@ -8,7 +8,7 @@
 
 * [Angular](angular/README.md)
   * [Setting up an Angular project](angular/setting-up-angular.md)
-  * [Creating Angular Libraries](angular/untitled.md)
+  * [Creating Angular Libraries](angular/ang_libraries.md)
 * [CSS](css/README.md)
   * [box-shadow for cards](css/box-shadow-for-cards.md)
 * [HTML](html/README.md)
