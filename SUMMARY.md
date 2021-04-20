@@ -21,8 +21,7 @@
   * [Uploading files to server](php/uploading-files-to-server.md)
 * [Jekyll](jekyll/README.md)
   * [Crating a jekyll project](jekyll/crating-a-jekyll-project.md)
-* [Wordpress](wordpress/README.md)
-  * [Untitled](wordpress/untitled.md)
+* [Wordpress](wordpress.md)
 
 ## App Development
 
