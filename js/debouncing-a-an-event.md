@@ -1,7 +1,5 @@
 ---
-description: >-
-  Code to debounce an handle simultaneous event that only need a controlled
-  aaction.
+description: Code to handle simultaneous event that only need a controlled action.
 ---
 
 # Debouncing a an event
