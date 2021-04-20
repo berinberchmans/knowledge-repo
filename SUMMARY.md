@@ -17,7 +17,8 @@
   * [Debouncing a an event](js/debouncing-a-an-event.md)
 * [PHP](php/README.md)
   * [Uploading files to server](php/uploading-files-to-server.md)
-* [Jekyll](jekyll.md)
+* [Jekyll](jekyll/README.md)
+  * [Crating a jekyll project](jekyll/crating-a-jekyll-project.md)
 * [Wordpress](wordpress.md)
 
 ## App Development
