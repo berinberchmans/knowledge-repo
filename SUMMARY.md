@@ -10,6 +10,7 @@
   * [Setting up an Angular project](angular/setting-up-angular.md)
   * [Creating Angular Libraries](angular/ang_libraries.md)
 * [CSS](css/README.md)
+  * [Absolute element aligned within relative element](css/absolute-element-aligned-within-relative-element.md)
   * [box-shadow for cards](css/box-shadow-for-cards.md)
 * [HTML](html/README.md)
   * [Open link in new tab](html/open-link-in-new-tab.md)
