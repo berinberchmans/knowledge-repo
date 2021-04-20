@@ -9,11 +9,13 @@
 * [Angular](angular/README.md)
   * [Setting up an Angular project](angular/setting-up-angular.md)
   * [Creating Angular Libraries](angular/untitled.md)
-* [CSS](css.md)
+* [CSS](css/README.md)
+  * [box-shadow for cards](css/box-shadow-for-cards.md)
 * [HTML](html.md)
 * [JS](js.md)
 * [PHP](php.md)
 * [Jekyll](jekyll.md)
+* [Wordpress](wordpress.md)
 
 ## App Development
 
@@ -25,8 +27,4 @@
 
 * [miscdocs](miscellaneous/miscdocs/README.md)
   * [About](miscellaneous/miscdocs/about.md)
-
----
-
-* [Wordpress](wordpress.md)
 
