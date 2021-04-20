@@ -15,7 +15,8 @@
   * [Open link in new tab](html/open-link-in-new-tab.md)
 * [JS](js/README.md)
   * [Debouncing a an event](js/debouncing-a-an-event.md)
-* [PHP](php.md)
+* [PHP](php/README.md)
+  * [Uploading files to server](php/uploading-files-to-server.md)
 * [Jekyll](jekyll.md)
 * [Wordpress](wordpress.md)
 
