@@ -10,6 +10,7 @@
   * [Setting up an Angular project](angular/setting-up-angular.md)
   * [Creating Angular Libraries](angular/ang_libraries.md)
 * [CSS](css/README.md)
+  * [Pure CSS gradient animation](css/pure-css-gradient-animation.md)
   * [Absolute element aligned within relative element](css/absolute-element-aligned-within-relative-element.md)
   * [box-shadow for cards](css/box-shadow-for-cards.md)
 * [HTML](html/README.md)
@@ -20,7 +21,8 @@
   * [Uploading files to server](php/uploading-files-to-server.md)
 * [Jekyll](jekyll/README.md)
   * [Crating a jekyll project](jekyll/crating-a-jekyll-project.md)
-* [Wordpress](wordpress.md)
+* [Wordpress](wordpress/README.md)
+  * [Untitled](wordpress/untitled.md)
 
 ## App Development
 
