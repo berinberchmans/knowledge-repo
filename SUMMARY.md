@@ -26,3 +26,7 @@
 * [miscdocs](miscellaneous/miscdocs/README.md)
   * [About](miscellaneous/miscdocs/about.md)
 
+---
+
+* [Wordpress](wordpress.md)
+
