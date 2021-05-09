@@ -16,13 +16,16 @@
 * [HTML](html/README.md)
   * [Open link in new tab](html/open-link-in-new-tab.md)
 * [JS](js/README.md)
+  * [nodemailer](js/nodemailer.md)
+  * [smtpjs](js/smtpjs.md)
   * [Sending emails using smtpjs](js/sending-emails-using-smtpjs.md)
   * [Debouncing a an event](js/debouncing-a-an-event.md)
 * [PHP](php/README.md)
   * [Uploading files to server](php/uploading-files-to-server.md)
 * [Jekyll](jekyll/README.md)
   * [Crating a jekyll project](jekyll/crating-a-jekyll-project.md)
-* [Wordpress](wordpress.md)
+* [Wordpress](wordpress/README.md)
+  * [Ninja Forms to send email](wordpress/ninja-forms-to-send-email.md)
 
 ## App Development
 
