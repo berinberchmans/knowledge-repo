@@ -40,3 +40,11 @@
 * [miscdocs](miscellaneous/miscdocs/README.md)
   * [About](miscellaneous/miscdocs/about.md)
 
+## Data Science
+
+* [Untitled](data-science/untitled.md)
+
+## Machine Learning
+
+* [Untitled](machine-learning/untitled.md)
+
