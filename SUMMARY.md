@@ -26,6 +26,7 @@
   * [Crating a jekyll project](jekyll/crating-a-jekyll-project.md)
 * [Wordpress](wordpress/README.md)
   * [Ninja Forms to send email](wordpress/ninja-forms-to-send-email.md)
+* [Firebase](firebase.md)
 
 ## App Development
 
