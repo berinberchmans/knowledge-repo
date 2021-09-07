@@ -39,10 +39,10 @@
 
 * [Starting Out](back-end-development/starting-out.md)
 * [Firebase](back-end-development/firebase/README.md)
-  * [Firebase Hosting](back-end-development/firebase/firebase-hosting.md)
-  * [Firebase + Angular](back-end-development/firebase/firebase-+-angular.md)
-  * [Firebase Realtime database](back-end-development/firebase/firebase-realtime-database.md)
   * [Initializing Firebase](back-end-development/firebase/initializing-firebase.md)
+  * [Firebase Hosting](back-end-development/firebase/firebase-hosting.md)
+  * [Firebase Realtime database](back-end-development/firebase/firebase-realtime-database.md)
+  * [Firebase + Angular](back-end-development/firebase/firebase-+-angular.md)
 
 ## Miscellaneous
 
