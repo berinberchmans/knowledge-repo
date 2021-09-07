@@ -26,7 +26,6 @@
   * [Crating a jekyll project](jekyll/crating-a-jekyll-project.md)
 * [Wordpress](wordpress/README.md)
   * [Ninja Forms to send email](wordpress/ninja-forms-to-send-email.md)
-* [Firebase](firebase.md)
 
 ## App Development
 
@@ -35,6 +34,15 @@
     * [Resolve the error on 'react-native start'](app-development/untitled/debugs/resolve-the-error-on-react-native-start.md)
 
 ## UI Design
+
+## Back End Development
+
+* [Starting Out](back-end-development/starting-out.md)
+* [Firebase](back-end-development/firebase/README.md)
+  * [Firebase Hosting](back-end-development/firebase/firebase-hosting.md)
+  * [Firebase + Angular](back-end-development/firebase/firebase-+-angular.md)
+  * [Firebase Realtime database](back-end-development/firebase/firebase-realtime-database.md)
+  * [Initializing Firebase](back-end-development/firebase/initializing-firebase.md)
 
 ## Miscellaneous
 
@@ -52,8 +60,4 @@
 ## Artificial Intelligence
 
 * [Untitled](artificial-intelligence/untitled.md)
-
-## Back End Development
-
-* [Starting Out](back-end-development/starting-out.md)
 
