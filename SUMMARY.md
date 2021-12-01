@@ -2,13 +2,13 @@
 
 * [Hey there!](README.md)
 
-## Web Development <a id="undefined"></a>
+## Web Development <a href="#undefined" id="undefined"></a>
 
----
+***
 
 * [Angular](angular/README.md)
   * [Setting up an Angular project](angular/setting-up-angular.md)
-  * [Creating Angular Libraries](angular/ang_libraries.md)
+  * [Creating Angular Libraries](angular/ang\_libraries.md)
 * [CSS](css/README.md)
   * [Pure CSS gradient animation](css/pure-css-gradient-animation.md)
   * [Absolute element aligned within relative element](css/absolute-element-aligned-within-relative-element.md)
@@ -59,5 +59,4 @@
 
 ## Artificial Intelligence
 
-* [Untitled](artificial-intelligence/untitled.md)
-
+* [python](artificial-intelligence/untitled.md)
