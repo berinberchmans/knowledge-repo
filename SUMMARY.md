@@ -2,7 +2,7 @@
 
 * [Hey there!](README.md)
 
-## Web Development <a href="#undefined" id="undefined"></a>
+## 🕸 Web Development <a href="#undefined" id="undefined"></a>
 
 ***
 
@@ -27,7 +27,7 @@
 * [Wordpress](wordpress/README.md)
   * [Ninja Forms to send email](wordpress/ninja-forms-to-send-email.md)
 
-## App Development
+## 📱 App Development
 
 * [React Native](app-development/untitled/README.md)
   * [Debugs](app-development/untitled/debugs/README.md)
@@ -62,6 +62,7 @@
 * [Markov Decision Process](artificial-intelligence/markov-decision-process.md)
 * [Python](artificial-intelligence/untitled.md)
 
-## Group 1
+## 👁🗨 Computer Vision
 
-* [Matlab](group-1/matlab.md)
+* [Image Segmentation](computer-vision/image-segmentation/README.md)
+  * [Matlab](computer-vision/image-segmentation/matlab.md)
