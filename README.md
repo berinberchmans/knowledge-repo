@@ -11,8 +11,8 @@ description: >-
 [amazon-coding-challenge.md](miscellaneous/amazon-coding-challenge.md)
 {% endcontent-ref %}
 
-{% content-ref url="angular/ang_libraries.md" %}
-[ang\_libraries.md](angular/ang\_libraries.md)
+{% content-ref url="angular/" %}
+[angular](angular/)
 {% endcontent-ref %}
 
 {% content-ref url="js/" %}
