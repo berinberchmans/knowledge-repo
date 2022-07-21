@@ -7,22 +7,18 @@ description: >-
 
 # Hey there!
 
-{% content-ref url="back-end-development/firebase/" %}
-[firebase](back-end-development/firebase/)
-{% endcontent-ref %}
-
-{% content-ref url="angular/" %}
-[angular](angular/)
+{% content-ref url="miscellaneous/amazon-coding-challenge.md" %}
+[amazon-coding-challenge.md](miscellaneous/amazon-coding-challenge.md)
 {% endcontent-ref %}
 
 {% content-ref url="angular/ang_libraries.md" %}
 [ang\_libraries.md](angular/ang\_libraries.md)
 {% endcontent-ref %}
 
-{% content-ref url="css/" %}
-[css](css/)
-{% endcontent-ref %}
-
 {% content-ref url="js/" %}
 [js](js/)
+{% endcontent-ref %}
+
+{% content-ref url="back-end-development/firebase/" %}
+[firebase](back-end-development/firebase/)
 {% endcontent-ref %}
