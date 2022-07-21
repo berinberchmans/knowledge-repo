@@ -48,6 +48,7 @@
 
 * [miscdocs](miscellaneous/miscdocs/README.md)
   * [About](miscellaneous/miscdocs/about.md)
+* [Amazon Coding Challenge](miscellaneous/amazon-coding-challenge.md)
 
 ## Data Science
 

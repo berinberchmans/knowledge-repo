@@ -34,7 +34,7 @@ Next, type the code to run the app. Please note this has to be run inside the pr
 ng serve
 ```
 
-Then just go to [http://localhost:4200/](http://localhost:4200) in your browser.
+Then just go to [http://localhost:4200/](http://localhost:4200/) in your browser.
 
 To automatically have the app run in our default browser when we run our project, add "-o" to the code.
 
