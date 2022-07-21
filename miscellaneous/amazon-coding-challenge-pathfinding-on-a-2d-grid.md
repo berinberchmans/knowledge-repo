@@ -1,8 +1,8 @@
 ---
-description: Bright Network Internship Task 1 -Bright Network Internship Task 1 -
+description: Bright Network Internship Task 1
 ---
 
-# Amazon Coding Challenge
+# Amazon Coding Challenge -Pathfinding on a 2D Grid
 
 ## Bright Network Internship Task 1 - Amazon Coding Challenge
 

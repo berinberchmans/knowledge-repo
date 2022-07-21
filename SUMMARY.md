@@ -48,7 +48,7 @@
 
 * [miscdocs](miscellaneous/miscdocs/README.md)
   * [About](miscellaneous/miscdocs/about.md)
-* [Amazon Coding Challenge](miscellaneous/amazon-coding-challenge.md)
+* [Amazon Coding Challenge -Pathfinding on a 2D Grid](miscellaneous/amazon-coding-challenge-pathfinding-on-a-2d-grid.md)
 
 ## Data Science
 

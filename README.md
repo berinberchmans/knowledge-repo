@@ -7,8 +7,8 @@ description: >-
 
 # Hey there!
 
-{% content-ref url="miscellaneous/amazon-coding-challenge.md" %}
-[amazon-coding-challenge.md](miscellaneous/amazon-coding-challenge.md)
+{% content-ref url="miscellaneous/amazon-coding-challenge-pathfinding-on-a-2d-grid.md" %}
+[amazon-coding-challenge-pathfinding-on-a-2d-grid.md](miscellaneous/amazon-coding-challenge-pathfinding-on-a-2d-grid.md)
 {% endcontent-ref %}
 
 {% content-ref url="angular/" %}
