@@ -67,3 +67,7 @@
 
 * [Image Segmentation](computer-vision/image-segmentation/README.md)
   * [Matlab](computer-vision/image-segmentation/matlab.md)
+
+## 👨🎓 University
+
+* [Dissertation](university/dissertation.md)
